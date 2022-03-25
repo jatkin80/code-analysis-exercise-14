@@ -21,14 +21,14 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
+|false; 'sallyMustang';| (`Hey ${sallyMustang}! Would you like to renew your subscription?`)       |
+|true; 'joeBlow';|(`Welcome back, ${joeBlow}!`)        |
 |       |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>With inputs of user activity status and username, the program evaluates the users activity status for truthy or falsy to return a corresponding greeting</td>
   </tr>
 </table>
 
