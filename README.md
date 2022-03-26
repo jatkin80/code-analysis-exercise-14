@@ -21,8 +21,8 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|false; 'sallyMustang';| (`Hey ${sallyMustang}! Would you like to renew your subscription?`)       |
-|true; 'joeBlow';|(`Welcome back, ${joeBlow}!`)        |
+|false; 'sallyMustang';| (`Hey sallyMustang! Would you like to renew your subscription?`)       |
+|true; 'joeBlow';|(`Welcome back, joeBlow!`)        |
 |       |        | 
 
 <table>
